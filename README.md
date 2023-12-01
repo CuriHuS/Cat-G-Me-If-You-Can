@@ -49,3 +49,4 @@
 > 노션에 Do List 작성을 통해 기능 구현 목록 작성
 - 기능 구현 목록 가시화를 통한 개발 효율 향상 및 충돌 최소화
 <img src="https://github.com/CuriHuS/Catch-me-If-you-can/assets/64942546/055ecc98-10de-43e7-845b-f937551bd70f.png" width="600" height="500"/>
+.
