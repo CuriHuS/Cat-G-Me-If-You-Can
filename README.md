@@ -1,6 +1,5 @@
 # Catch-me-If-you-can 
 2023-2 GameEngineBasics Team Project
-안녕
 
 ## 게임 개요
 > ### 제목
