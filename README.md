@@ -20,6 +20,8 @@
 ### 조작법(Control)
 **이동(Move)**: `W,A,S,D` <br>
 
+**달리기(Sprint)** : `Left Shift` <br>
+
 **점프(Jump)**: `Space bar`<br>
 
 **밀기(Push)**: `E`<br>
