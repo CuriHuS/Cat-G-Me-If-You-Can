@@ -1,6 +1,9 @@
 # Catch-me-If-you-can 
 2023-2 GameEngineBasics Team Project
 
+
+<img src="https://github.com/CuriHuS/Catch-me-If-you-can/assets/64942546/cd47cb3d-6095-4bf4-8c43-6552546974ef" width="800" height="450"/>
+
 ## 게임 개요(Overview)
 ### 제목(Title)
 > 🐀**캣쥐 미 이프 유 캔**
