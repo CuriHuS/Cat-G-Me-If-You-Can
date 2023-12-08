@@ -1,12 +1,13 @@
-# Catch-me-If-you-can 
-2023-2 GameEngineBasics Team Project
+# Cat G Me If You Can
 
-
-<img src="https://github.com/CuriHuS/Catch-me-If-you-can/assets/64942546/cd47cb3d-6095-4bf4-8c43-6552546974ef" width="800" height="450"/>
+<img src="https://github.com/CuriHuS/Cat-G-Me-If-You-Can/assets/64942546/973e8aec-306c-46cb-918b-4040dac169c8" width="800" height="400"/>
 
 ## 게임 개요(Overview)
 ### 제목(Title)
 > 🐀**캣쥐 미 이프 유 캔**
+
+### 트레일러(Trailer)
+> YouTube 주소 나오면 업로드 예정
 
 ### 장르(Genre)
 > 3D 잠입 게임, 캐주얼, 3인칭, 1인칭
@@ -19,6 +20,13 @@
 
 ## 게임 플레이(Game Play)
 > 💡 How to play this game?
+
+
+<img src="https://github.com/CuriHuS/Cat-G-Me-If-You-Can/assets/64942546/24ed4cd3-7374-499a-87e0-130558d078f8" width="400" height="400"/>
+<img src="https://github.com/CuriHuS/Cat-G-Me-If-You-Can/assets/64942546/671c9ee8-66da-4c33-9e0f-f405d7e40fe9" width="400" height="400"/>
+<img src="https://github.com/CuriHuS/Cat-G-Me-If-You-Can/assets/64942546/aaac24f0-0fcb-4fab-8cf6-160b517dc0ff" width="400" height="400"/>
+<img src="https://github.com/CuriHuS/Cat-G-Me-If-You-Can/assets/64942546/6e5c0a72-6463-48b4-94e5-935338dc13c1" width="400" height="400"/>
+
 
 ### 조작법(Control)
 **이동(Move)**: `W,A,S,D` <br>
@@ -45,7 +53,11 @@
 ## 개발(Developement)
 
 ### 사용 스택(Tech Stack)
-`Unreal Engine` `Perforce` `Blender` `Notion`
+<img src="https://img.shields.io/badge/Unreal Engine-0E1128?style=flat-square&logo=unrealengine&logoColor=white" /> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
+<img src="https://img.shields.io/badge/Perforce-404040?style=flat-square&logo=perforce&logoColor=white"/>
+<img src="https://img.shields.io/badge/blender-E87D0D?style=flat-square&logo=blender&logoColor=white"/>
+
+
 
 ### 개발 기간(Period)
 > 2023.09.02 ~ 2023.12.10
