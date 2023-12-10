@@ -55,7 +55,7 @@ https://drive.google.com/file/d/16olEzsh-OUg7yag77WgaavsfzK5i4iOU/view?usp=drive
 
 ## 개발(Developement)
 
-### 사용 스택(Tech Stack)
+### 기술 스택(Stack)
 <img src="https://img.shields.io/badge/Unreal Engine-0E1128?style=flat-square&logo=unrealengine&logoColor=white" /> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
 <img src="https://img.shields.io/badge/Perforce-404040?style=flat-square&logo=perforce&logoColor=white"/>
 <img src="https://img.shields.io/badge/blender-E87D0D?style=flat-square&logo=blender&logoColor=white"/>
