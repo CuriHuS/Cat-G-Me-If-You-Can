@@ -18,10 +18,10 @@ https://drive.google.com/file/d/16olEzsh-OUg7yag77WgaavsfzK5i4iOU/view?usp=drive
 ### 플랫폼(Platform)
 > 💻 Windows
 
-### 스토리(Story)
+### 📜 스토리(Story)
 > 요리를 못하는 요리사 친구를 위해 MSG를 몰래 가져가서 잠입한다
 
-## 게임 플레이(Game Play)
+## 🕹게임 플레이(Game Play)
 > 💡 How to play this game?
 
 
@@ -31,8 +31,10 @@ https://drive.google.com/file/d/16olEzsh-OUg7yag77WgaavsfzK5i4iOU/view?usp=drive
 <img src="https://github.com/CuriHuS/Cat-G-Me-If-You-Can/assets/64942546/6e5c0a72-6463-48b4-94e5-935338dc13c1" width="400" height="400"/>
 
 
-### 조작법(Control)
+### 🎮조작법(Control)
 **이동(Move)**: `W,A,S,D` <br>
+
+**카메라 이동(Camera)**: `🖱 Mouse` <br>
 
 **달리기(Sprint)** : `Left Shift` <br>
 
@@ -45,7 +47,7 @@ https://drive.google.com/file/d/16olEzsh-OUg7yag77WgaavsfzK5i4iOU/view?usp=drive
 **시점 변환(Change View)**: `V`
 
 
-### 클리어 조건(How to clear)
+### 🥇클리어 조건(How to clear)
 > MSG를 모아 목표 요리사에게 도달하라!
 
 - 고양이나 요리사에게 들키면 쫓아옵니다
@@ -53,19 +55,19 @@ https://drive.google.com/file/d/16olEzsh-OUg7yag77WgaavsfzK5i4iOU/view?usp=drive
 
 
 
-## 개발(Developement)
+## 🛠 개발(Developement)
 
-### 기술 스택(Stack)
+### 📚 기술 스택(Stack)
 <img src="https://img.shields.io/badge/Unreal Engine-0E1128?style=flat-square&logo=unrealengine&logoColor=white" /> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
 <img src="https://img.shields.io/badge/Perforce-404040?style=flat-square&logo=perforce&logoColor=white"/>
 <img src="https://img.shields.io/badge/blender-E87D0D?style=flat-square&logo=blender&logoColor=white"/>
 
 
 
-### 개발 기간(Period)
+### 📆 개발 기간(Period)
 > 2023.09.02 ~ 2023.12.10
 
-### 개발 인원(Team)
+### 👨‍👩‍👦 개발 인원(Team)
 > 5명
 
 **Leader**<br>
@@ -77,7 +79,7 @@ https://drive.google.com/file/d/16olEzsh-OUg7yag77WgaavsfzK5i4iOU/view?usp=drive
 [spoiuy3](https://github.com/spoiuy3)<br>
 [wowzaw](https://github.com/wowzaw)
 
-### 협업 방법(Process)
+### 🚌 협업 방법(Process)
 
 > 노션에 Do List 작성을 통해 기능 구현 목록 작성
 - 기능 구현 목록 가시화를 통한 개발 효율 향상 및 충돌 최소화
