@@ -46,13 +46,19 @@ https://drive.google.com/file/d/1NJUArk9BOjSmwgRyo9sovvgmm2T97u_j/view?usp=shari
 
 **시점 변환(Change View)**: `V`
 
+**시네마틱 스킵(Skip Cinematic)** : `Ctrl+S`
+
 
 ### 🥇클리어 조건(How to clear)
 > MSG를 모아 목표 요리사에게 도달하라!
+<img src="https://github.com/CuriHuS/Cat-G-Me-If-You-Can/assets/64942546/dd6701f1-31a5-4c17-ba56-856e4c10cefc.png" width="800" height="480"/>
 
 - 고양이나 요리사에게 들키면 쫓아옵니다
 - 맵 곳곳에 요소들을 이용해 따돌리세요
-
+  - 고양이는 연어를 좋아하고 청각에 반응합니다!
+  - 요리사는 시야 범위 내에서 사라지면 추적을 멈춥니다!
+- 죽으면 최근에 MSG를 먹었던 장소에서 리스폰합니다
+- 일정 체력 미만으로 떨어지면 달리지 못합니다!
 
 
 ## 🛠 개발(Developement)
