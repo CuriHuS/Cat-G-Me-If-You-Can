@@ -10,7 +10,7 @@ https://drive.google.com/file/d/1NJUArk9BOjSmwgRyo9sovvgmm2T97u_j/view?usp=shari
 > 🐀**캣쥐 미 이프 유 캔**
 
 ### 트레일러(Trailer)
-> YouTube 주소 나오면 업로드 예정
+> youtube.com/watch?v=09ANjC58ZbE&feature=youtu.be
 
 ### 장르(Genre)
 > 3D 잠입 게임, 캐주얼, 3인칭, 1인칭
